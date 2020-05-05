@@ -116,9 +116,9 @@
 	\item колличество перебирвемых значений $\mu$: 10 
 	\item будем рассматривать зависимость $l_{optimal}\left( \mu \right) $ при $a = 0.5$
 	\end{itemize}
-\begin{figure}[h]
+\begin{figure}[H]
 	\centering
-	\includegraphics[width=0.35\linewidth]{assets/plot_mu_l.jpg}
+	\includegraphics[width=0.7\linewidth]{assets/plot_mu_l.jpg}
 	\caption{график $l_{optimal}(\mu)$}
 	\label{fig:mpr}
 \end{figure}
@@ -128,9 +128,9 @@
 	\item колличество перебирвемых значений $\mu$: 10 
 	\item будем рассматривать зависимость $l_{optimal}\left( \mu \right) $ при $a = 0.5$
 \end{itemize}
-\begin{figure}[h]
+\begin{figure}[H]
 	\centering
-	\includegraphics[width=0.35\linewidth]{assets/plot_mu_l_details.jpg}
+	\includegraphics[width=0.7\linewidth]{assets/plot_mu_l_details.jpg}
 	\caption{график $l_{optimal}(\mu)$}
 	\label{fig:mpr}
 \end{figure}
@@ -138,8 +138,7 @@
 \textbf{Что можно заметить:}
 \begin{itemize}
 	\item Мы задаём начальные капиталы эгоистов в обществе как случайные величины с нормальным распределением $N\left(\mu, \sigma \right) $, где $\mu = -0.3$, а $\sigma = 10$
-	\item максимум на графике, как можно видеть, достигается при \\ $\mu = -0.333$ и $l_{optimal} = 0.511$
-	\item полученные результаты наводят на мысль, что максимум графика $l_{optimal}(\mu)$ напрямую зависит от исходного распределения капиталов в обществе эгоистов
+	\item максимум на графике, как можно видеть, достигается при \\ $\mu = -1.017$ и $l_{optimal} = 0.537$
 \end{itemize}
 \end{conclusion}
 \null\newpage
@@ -193,5 +192,30 @@
 	\includegraphics[width=1.0\linewidth]{assets/init_balance_100.jpg}
 	конечное распределение капиталов \newline при $balance_{init} = 100$
 \end{minipage}
+\end{figure}
+\null\newpage
+Снова зададим эгоистам в обществе одинаковые начальные капиталы: пусть $balance_{init} = 5$. Рассмотрим зависимость СПК от порогового значения принятия решения $l$.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\linewidth]{assets/one_value_distribution/plot_a01.jpg}
+	\caption{$ABG(l)$ при $balance_{init} = 5$ и $a = 0.1$}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\linewidth]{assets/one_value_distribution/plot_a05.jpg}
+	\caption{$ABG(l)$ при $balance_{init} = 5$ и $a = 0.5$}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\linewidth]{assets/one_value_distribution/plot_a09.jpg}
+	\caption{$ABG(l)$ при $balance_{init} = 5$ и $a = 0.9$}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.7\linewidth]{assets/one_value_distribution/plot_mu_l_details.jpg}
+	\caption{Зависимость $l_{optim}(\mu)$ при $a = 0.5$ и при одинаковых значениях $balance_{init} = 5$}
 \end{figure}
 \end{document}

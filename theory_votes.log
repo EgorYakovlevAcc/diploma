@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.7)  4 MAY 2020 04:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.7)  4 MAY 2020 18:25
 entering extended mode
 **./theory_votes.tex
 (theory_votes.tex
@@ -1288,32 +1288,32 @@ jpg>]
 File: assets/plot_mu_l.jpg Graphic file (type jpg)
 <use assets/plot_mu_l.jpg>
 Package pdftex.def Info: assets/plot_mu_l.jpg  used on input line 121.
-(pdftex.def)             Requested size: 120.7521pt x 129.45795pt.
-<assets/plot_mu_l_details.jpg, id=82, 473.51906pt x 499.11469pt>
+(pdftex.def)             Requested size: 241.49895pt x 258.9159pt.
+<assets/plot_mu_l_details.jpg, id=82, 298.61563pt x 333.245pt>
 File: assets/plot_mu_l_details.jpg Graphic file (type jpg)
 <use assets/plot_mu_l_details.jpg>
 Package pdftex.def Info: assets/plot_mu_l_details.jpg  used on input line 133.
-(pdftex.def)             Requested size: 120.7521pt x 127.27635pt.
- [6 <./assets/plot_mu_l.jpg> <./assets/plot_mu_l_details.jpg>] [7]
+(pdftex.def)             Requested size: 241.49895pt x 269.50491pt.
+ [6 <./assets/plot_mu_l.jpg>] [7 <./assets/plot_mu_l_details.jpg>]
 <assets/same_value_distribution_example.jpg, id=91, 282.30469pt x 202.50656pt>
 File: assets/same_value_distribution_example.jpg Graphic file (type jpg)
 <use assets/same_value_distribution_example.jpg>
 Package pdftex.def Info: assets/same_value_distribution_example.jpg  used on in
-put line 154.
+put line 153.
 (pdftex.def)             Requested size: 169.0519pt x 121.26692pt.
 <assets/suggestion_distribution_example.jpg, id=92, 293.59688pt x 205.5178pt>
 File: assets/suggestion_distribution_example.jpg Graphic file (type jpg)
 <use assets/suggestion_distribution_example.jpg>
 Package pdftex.def Info: assets/suggestion_distribution_example.jpg  used on in
-put line 159.
+put line 158.
 (pdftex.def)             Requested size: 169.0519pt x 118.33488pt.
 
-Underfull \hbox (badness 1478) in paragraph at lines 160--160
+Underfull \hbox (badness 1478) in paragraph at lines 159--159
 []\T2A/cmr/m/n/10 Рис. 7: нор-маль-ное рас-пре-де-ле-ние
  []
 
 
-Underfull \hbox (badness 1917) in paragraph at lines 160--160
+Underfull \hbox (badness 1917) in paragraph at lines 159--159
 \T2A/cmr/m/n/10 слу-чай-ных чи-сел в пред-ло-же-ни-ях
  []
 
@@ -1323,41 +1323,72 @@ tion_example.jpg>]
 File: assets/init_balance_minus_100.jpg Graphic file (type jpg)
 <use assets/init_balance_minus_100.jpg>
 Package pdftex.def Info: assets/init_balance_minus_100.jpg  used on input line 
-167.
+166.
 (pdftex.def)             Requested size: 169.0519pt x 109.64291pt.
 <assets/init_balance_minus_5.jpg, id=97, 315.42844pt x 210.7875pt>
 File: assets/init_balance_minus_5.jpg Graphic file (type jpg)
 <use assets/init_balance_minus_5.jpg>
 Package pdftex.def Info: assets/init_balance_minus_5.jpg  used on input line 17
-3.
+2.
 (pdftex.def)             Requested size: 169.0519pt x 112.97122pt.
 <assets/init_balance_0.jpg, id=98, 320.69812pt x 202.50656pt>
 File: assets/init_balance_0.jpg Graphic file (type jpg)
 <use assets/init_balance_0.jpg>
-Package pdftex.def Info: assets/init_balance_0.jpg  used on input line 179.
+Package pdftex.def Info: assets/init_balance_0.jpg  used on input line 178.
 (pdftex.def)             Requested size: 172.5pt x 108.92857pt.
 <assets/init_balance_5.jpg, id=99, 322.95656pt x 208.52907pt>
 File: assets/init_balance_5.jpg Graphic file (type jpg)
 <use assets/init_balance_5.jpg>
-Package pdftex.def Info: assets/init_balance_5.jpg  used on input line 187.
+Package pdftex.def Info: assets/init_balance_5.jpg  used on input line 186.
 (pdftex.def)             Requested size: 169.0519pt x 109.15483pt.
 <assets/init_balance_100.jpg, id=100, 319.94531pt x 208.52907pt>
 File: assets/init_balance_100.jpg Graphic file (type jpg)
 <use assets/init_balance_100.jpg>
-Package pdftex.def Info: assets/init_balance_100.jpg  used on input line 193.
+Package pdftex.def Info: assets/init_balance_100.jpg  used on input line 192.
 (pdftex.def)             Requested size: 169.0519pt x 110.18259pt.
  [9 <./assets/init_balance_minus_100.jpg> <./assets/init_balance_minus_5.jpg> <
 ./assets/init_balance_0.jpg> <./assets/init_balance_5.jpg> <./assets/init_balan
-ce_100.jpg>] (theory_votes.aux)
+ce_100.jpg>]
+<assets/one_value_distribution/plot_a01.jpg, id=104, 463.7325pt x 273.27094pt>
+File: assets/one_value_distribution/plot_a01.jpg Graphic file (type jpg)
+<use assets/one_value_distribution/plot_a01.jpg>
+Package pdftex.def Info: assets/one_value_distribution/plot_a01.jpg  used on in
+put line 200.
+(pdftex.def)             Requested size: 207.0021pt x 121.98253pt.
+<assets/one_value_distribution/plot_a05.jpg, id=105, 469.00218pt x 271.76532pt>
+
+File: assets/one_value_distribution/plot_a05.jpg Graphic file (type jpg)
+<use assets/one_value_distribution/plot_a05.jpg>
+Package pdftex.def Info: assets/one_value_distribution/plot_a05.jpg  used on in
+put line 206.
+(pdftex.def)             Requested size: 207.0021pt x 119.94617pt.
+<assets/one_value_distribution/plot_a09.jpg, id=106, 471.26062pt x 270.25969pt>
+
+File: assets/one_value_distribution/plot_a09.jpg Graphic file (type jpg)
+<use assets/one_value_distribution/plot_a09.jpg>
+Package pdftex.def Info: assets/one_value_distribution/plot_a09.jpg  used on in
+put line 212.
+(pdftex.def)             Requested size: 207.0021pt x 118.71255pt.
+<assets/one_value_distribution/plot_mu_l_details.jpg, id=107, 464.4853pt x 491.
+58656pt>
+File: assets/one_value_distribution/plot_mu_l_details.jpg Graphic file (type jp
+g)
+<use assets/one_value_distribution/plot_mu_l_details.jpg>
+Package pdftex.def Info: assets/one_value_distribution/plot_mu_l_details.jpg  u
+sed on input line 218.
+(pdftex.def)             Requested size: 241.49895pt x 255.59648pt.
+ [10 <./assets/one_value_distribution/plot_a01.jpg> <./assets/one_value_distrib
+ution/plot_a05.jpg> <./assets/one_value_distribution/plot_a09.jpg>] [11 <./asse
+ts/one_value_distribution/plot_mu_l_details.jpg>] (theory_votes.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 31028 strings out of 492484
- 635102 string characters out of 3121538
- 695142 words of memory out of 3000000
- 34932 multiletter control sequences out of 15000+200000
+ 31051 strings out of 492484
+ 636161 string characters out of 3121538
+ 695143 words of memory out of 3000000
+ 34954 multiletter control sequences out of 15000+200000
  543485 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,11n,103p,918b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1381,9 +1412,9 @@ rs/yakov/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/yakov/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmsy5.pfb><C:/Users/yakov/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmsy7.pfb>
-Output written on theory_votes.pdf (9 pages, 871914 bytes).
+Output written on theory_votes.pdf (11 pages, 991826 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
+ 326 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 247 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 
